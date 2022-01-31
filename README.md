@@ -38,6 +38,8 @@ In other words, the company wants to understand the driving factors (or driver v
 
 Data Understanding
 
+Kaggle Link and Dataset: https://www.kaggle.com/venkatasubramanian/credit-eda-case-study
+
 This dataset has 3 files as explained below:
 
 'application_data.csv' contains all the information of the client at the time of application.
